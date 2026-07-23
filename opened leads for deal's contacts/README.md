@@ -1,4 +1,4 @@
-# Opened Leads for Deal's Contacts
+# Opened leads for a deal's contacts
 
 ## 📋 Description
 
