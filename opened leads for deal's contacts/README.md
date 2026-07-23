@@ -3,6 +3,8 @@
 ## 📋 Description
 
 This PHP code snippet is designed for use in **PHP-code activities** within Bitrix24 workflows.
+This integration automates the process of searching opened leads associated with deal contacts in Bitrix24 CRM workflows.
+The search takes place by phone numbers and by the entities of the contacts linked to the deal.
 
 ---
 
@@ -13,9 +15,3 @@ This PHP code snippet is designed for use in **PHP-code activities** within Bitr
 3. **Remove the opening PHP tag** (`<?php`) from the first line
 
 ---
-
-## ℹ️ About
-
-This integration automates the process of retrieving and managing opened leads associated with deal contacts in Bitrix24 CRM workflows.
-
-Y
