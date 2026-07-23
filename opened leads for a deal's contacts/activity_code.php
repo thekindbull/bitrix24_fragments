@@ -24,7 +24,7 @@ try {
     $leadIds = checkLeads(
         array_unique($leadIds, SORT_NUMERIC)
     );
-    $this->SetVariable('LEAD_IDS', $leadIds);
+    $this->SetVariable('LeadIds', $leadIds);
 } catch (\Throwable $e) {
     $this->WriteToTrackingService(
         sprintf(
